@@ -23,7 +23,7 @@ email: alexanderjulian.gallo@polimi.it
 description: >- # this means to ignore newlines until "baseurl:"
 domain: alexjgallo.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
-url: https://ajgallo.github.io # the base hostname & protocol for your site, e.g. http://example.com
+url: https://alexjgallo.github.io # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  alexjgallo
 
 # Build settings
