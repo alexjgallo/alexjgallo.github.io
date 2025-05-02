@@ -15,6 +15,7 @@ layout: home
     /* max-width:10%; */
     float: right;
     width: 150px;
+    height: 300px;
     object-fit: contain;
   }
   
