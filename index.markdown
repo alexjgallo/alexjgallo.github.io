@@ -23,7 +23,7 @@ layout: home
 </style>
 
 <section class="section">
-  <img src="/assets/myself.jpg" />
+  <img src="/assets/alex.jpg" />
   <div class="content">
     <ul style="list-style-type:none;">
         <li>Dipartimento di Elettronica, Informazione e Bioingegneria</li>
@@ -36,7 +36,7 @@ layout: home
         <li><a href="https://www.linkedin.com/in/alexjgallo" target="_blank"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#linkedin'}}"></use></svg>LinkedIn</a></li>
         <li><a href="https://orcid.org/0000-0002-3578-9334" target="_blank"><img class="svg-icon" src="/assets/icons/orcid-icon.svg">ORCID</a></li>
         <li><a href="mailto:alexanderjulian.gallo@polimi.it"><img class="svg-icon" src="/assets/icons/email-icon.svg">Work email</a></li>
-        <li><a href="/assets/Academic_cv.pdf" target="_blank"><img class="svg-icon" src="/assets/icons/paper.svg">CV</a></li>
+        <li><a href="/assets/CV_AJGallo_2024.pdf" target="_blank"><img class="svg-icon" src="/assets/icons/paper.svg">CV</a></li>
     </ul>
   </div>
 </section>
