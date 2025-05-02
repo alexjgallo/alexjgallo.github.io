@@ -13,7 +13,7 @@ layout: home
 
   img {
     /* max-width:10%; */
-    float: left;
+    float: right;
     object-fit: scale-down;
   }
   
@@ -23,7 +23,6 @@ layout: home
 </style>
 
 <section class="section">
-  <img src="/assets/alex.jpg" />
   <div class="content">
     <ul style="list-style-type:none;">
         <li>Dipartimento di Elettronica, Informazione e Bioingegneria</li>
@@ -39,6 +38,7 @@ layout: home
         <li><a href="/assets/CV_AJGallo_2024.pdf" target="_blank"><img class="svg-icon" src="/assets/icons/paper.svg">CV</a></li>
     </ul>
   </div>
+  <img src="/assets/alex.jpg" />
 </section>
 
 <br>
