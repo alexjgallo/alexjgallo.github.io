@@ -43,7 +43,7 @@ layout: home
 
 <br>
 
-<h1> Thank you for your visit! </h1>
+<h1> Thank you for visiting my website! </h1>
 
 I am a postdoc at the [DEIB, Politecnico di Milano](https://www.deib.polimi.it/en/home-page){:target="_blank"}, 
 working in [Simone Garatti](https://garatti.faculty.polimi.it/){:target="_blank"}'s team.
