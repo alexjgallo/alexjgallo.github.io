@@ -1,3 +1,3 @@
-README.md
+This is the README file for the repository ajgallo.github.io
 
-This is the README file for 
+This repository is to build a website for my research activities.
