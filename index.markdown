@@ -12,13 +12,13 @@ layout: home
   }
 
   img {
-    /* max-height:20%; */
+    /* max-height:10%; */
     float: left;
     object-fit: scale-down;
   }
   
   .content {
-    padding: 20px;
+    padding: 10px;
   }
 </style>
 
