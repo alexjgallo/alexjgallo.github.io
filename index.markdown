@@ -12,7 +12,7 @@ layout: home
   }
 
   img {
-    /* max-height:50%; */
+    /* max-height:20%; */
     float: left;
     object-fit: scale-down;
   }
