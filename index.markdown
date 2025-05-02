@@ -14,7 +14,7 @@ layout: home
   img {
     /* max-height:50%; */
     float: left;
-    object-fit: contain;
+    object-fit: scale-down;
   }
   
   .content {
