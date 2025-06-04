@@ -62,4 +62,4 @@ order: 2
 <h1>Ph.D. thesis</h1>
 
 - A. J. Gallo, "Plug-and-play fault-tolerant and cyber-secure control: application to future distribution networks"
-[[online](https://spiral.imperial.ac.uk/entities/publication/5f956a5a-0e63-4e32-a79c-e56b74f06649){:target="_blank"]
+[[online](https://spiral.imperial.ac.uk/entities/publication/5f956a5a-0e63-4e32-a79c-e56b74f06649){:target="_blank"}]
