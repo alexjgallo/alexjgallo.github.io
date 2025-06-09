@@ -38,7 +38,7 @@ layout: home
         <li><a href="https://www.linkedin.com/in/alexjgallo" target="_blank"><img class="svg-icon" src="/assets/icons/LinkedIn_icon.svg">Linkedin</a></li>
         <li><a href="https://orcid.org/0000-0002-3578-9334" target="_blank"><img class="svg-icon" src="/assets/icons/orcid-icon.svg">ORCID</a></li>
         <li><a href="mailto:alexanderjulian.gallo@polimi.it"><img class="svg-icon" src="/assets/icons/email-icon.svg">Work email</a></li>
-        <li><a href="/assets/CV_AJGallo_2024.pdf" target="_blank"><img class="svg-icon" src="/assets/icons/paper.svg">CV</a></li>
+        <li><a href="/assets/2025_AJGallo_CV.pdf" target="_blank"><img class="svg-icon" src="/assets/icons/paper.svg">CV</a></li>
     </ul>
   </div>
 </section>
