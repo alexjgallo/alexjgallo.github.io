@@ -7,6 +7,11 @@ order: 2
 
 <h1>Journal articles</h1>
 
+- B. Wolleswinkel, I. van Straalen, L. Ballotta, A. J. Gallo, R. M. G. Ferrari, "Periodic sparse control to prevent undetectable attacks on over-actuated systems", <i> IEEE Control Systems Letters </i>, 2025
+
+[[online](https://doi.org/10.1109/LCSYS.2025.3581865){:target="_blank"}]
+{: style="text-align: right;"}
+
 - H. Tabatabei, A. J. Gallo, A. al Dabbagh, "System Output Reconstruction and Accommodation of False-Data Injection Attacks in Large-Scale Systems", <i> Automatica </i>, 2025, <i>To appear</i>.
 
 - G. Yang, A. J. Gallo, A. Barboni, R. M. G. Ferrari, A. Serrani, T. Parisini, "On the Output Redundancy of a LTI System: A Geometric Approach with Application to Privacy", <i>IEEE Transactions on Automatic Control</i>, 2025, <i>To appear</i>.  
