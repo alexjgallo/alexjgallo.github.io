@@ -7,14 +7,17 @@ order: 2
 
 <h1>Journal articles</h1>
 
-- B. Wolleswinkel, I. van Straalen, L. Ballotta, A. J. Gallo, R. M. G. Ferrari, "Periodic sparse control to prevent undetectable attacks on over-actuated systems", <i> IEEE Control Systems Letters </i>, 2025
+- B. Wolleswinkel, I. van Straalen, L. Ballotta, A. J. Gallo, R. M. G. Ferrari, "Periodic sparse control to prevent undetectable attacks on over-actuated systems", <i> IEEE Control Systems Letters </i>, 2025, <i>Early Access</i>.
 
 [[online](https://doi.org/10.1109/LCSYS.2025.3581865){:target="_blank"}]
 {: style="text-align: right;"}
 
-- H. Tabatabei, A. J. Gallo, A. al Dabbagh, "System Output Reconstruction and Accommodation of False-Data Injection Attacks in Large-Scale Systems", <i> Automatica </i>, 2025, <i>To appear</i>.
+- H. Tabatabei, A. J. Gallo, A. al Dabbagh, "System Output Reconstruction and Accommodation of False-Data Injection Attacks in Large-Scale Systems", <i> Automatica </i>, 180:112460, 2025.
 
-- G. Yang, A. J. Gallo, A. Barboni, R. M. G. Ferrari, A. Serrani, T. Parisini, "On the Output Redundancy of a LTI System: A Geometric Approach with Application to Privacy", <i>IEEE Transactions on Automatic Control</i>, 2025, <i>To appear</i>.  
+[[online](https://doi.org/10.1016/j.automatica.2025.112460){:target="_blank"}]
+{: style="text-align: right;"}
+
+- G. Yang, A. J. Gallo, A. Barboni, R. M. G. Ferrari, A. Serrani, T. Parisini, "On the Output Redundancy of a LTI System: A Geometric Approach with Application to Privacy", <i>IEEE Transactions on Automatic Control</i>, 2025, <i>Early Access</i>.  
 
 [[arxiv](https://arxiv.org/abs/2409.17705){:target="_blank"}]
 {: style="text-align: right;"}
