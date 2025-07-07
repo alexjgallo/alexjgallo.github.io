@@ -19,7 +19,7 @@ order: 2
 
 - G. Yang, A. J. Gallo, A. Barboni, R. M. G. Ferrari, A. Serrani, T. Parisini, "On the Output Redundancy of a LTI System: A Geometric Approach with Application to Privacy", <i>IEEE Transactions on Automatic Control</i>, 2025, <i>Early Access</i>.  
 
-[[arxiv](https://arxiv.org/abs/2409.17705){:target="_blank"}]
+[[online](https://doi.org/10.1109/TAC.2025.3579219){:target="_blank"}]
 {: style="text-align: right;"}
 
 - A. J. Gallo, S. C. Anand, A. Teixeira, R. M. G. Ferrari, "Switching Multiplicative Watermark Design Against Covert Attacks", <i>Automatica</i>, 177:112301, 2025.
