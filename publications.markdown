@@ -7,6 +7,11 @@ order: 2
 
 <h1>Journal articles</h1>
 
+- S. C. Anand, A. J. Gallo, N. Bastianello, "Security of Gradient Tracking Algorithms Against Malicious Agents", Submitted to: <i>IFAC World Congress with Journal Option </i>.
+
+[[arxiv](https://doi.org/10.48550/arXiv.2505.14473){:target="_blank"}]
+{: style="text-align: right;"}
+
 - B. Wolleswinkel, I. van Straalen, L. Ballotta, A. J. Gallo, R. M. G. Ferrari, "Periodic sparse control to prevent undetectable attacks on over-actuated systems", <i> IEEE Control Systems Letters </i>, 2025, <i>Early Access</i>.
 
 [[online](https://doi.org/10.1109/LCSYS.2025.3581865){:target="_blank"}]
