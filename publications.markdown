@@ -7,7 +7,7 @@ order: 2
 
 <h1>Journal articles</h1>
 
-- S. C. Anand, A. J. Gallo, N. Bastianello, "Security of Gradient Tracking Algorithms Against Malicious Agents", Submitted to: <i>IFAC World Congress with Journal Option </i>.
+- S. C. Anand, A. J. Gallo, N. Bastianello, "Security of Gradient Tracking Algorithms Against Malicious Agents", Submitted to: <i>IFAC World Congress</i> and <i>IFAC Journal on Systems and Control</i>.
 
 [[arxiv](https://doi.org/10.48550/arXiv.2505.14473){:target="_blank"}]
 {: style="text-align: right;"}
